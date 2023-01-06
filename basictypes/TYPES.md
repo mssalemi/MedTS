@@ -21,3 +21,9 @@ Primitive vs Object Types
 
 - Primitive is basic types, number, boolean, void, undefined, strign, symbol, null
 - Object is functions, arrays, classes, objects, we can write that will trick compiler to think object is of certain type (can only do this with 'Object' types)
+
+
+Inference vs Annotation
+- both say what type of value the variable will refer to
+- we use annotation when we tell TS the type
+- inference is when TS will infer the type based on the value

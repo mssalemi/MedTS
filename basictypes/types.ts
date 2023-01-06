@@ -10,3 +10,11 @@ const babyBornToday = {
   age: 0,
   yearOfBirth: year,
 };
+
+class Color {
+
+}
+
+const red = new Color()
+// Nothing on this thing yet
+

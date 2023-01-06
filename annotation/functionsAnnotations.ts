@@ -72,7 +72,7 @@ const {
   cords: { lat, long },
 } = profile;
 // Full annotation below
-// const {
-//   age: age2,
-//   cords: { lat: lat2, long: lng },
-// }: { age: number; cords: { lat: number; long: number } } = profile;
+const {
+  age: age2,
+  cords: { lat: lat2, long: lng },
+}: { age: number; cords: { lat: number; long: number } } = profile;
