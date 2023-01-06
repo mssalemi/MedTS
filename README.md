@@ -1,4 +1,4 @@
-## Intro
+# Intro
 
 **Typescirpt = Javascript with a 'type' system**
 
